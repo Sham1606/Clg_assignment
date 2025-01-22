@@ -1,0 +1,50 @@
+Image: Chest X-ray, PA view
+Description: The chest X-ray reveals patchy opacities in the right lower lobe with air bronchograms.
+Analysis: These findings are consistent with lobar pneumonia. The left lung field appears clear. Heart size and mediastinal contours are within normal limits. No pleural effusion or pneumothorax is identified.
+Recommendation: Initiate empiric antibiotic therapy with a respiratory fluoroquinolone or combination of beta-lactam and macrolide. Encourage deep breathing exercises and adequate hydration. Follow-up chest X-ray in 4-6 weeks to ensure resolution.
+
+Image: Chest CT scan, axial view
+Description: CT scan shows multiple ground-glass opacities with peripheral and lower lobe predominance. Crazy-paving pattern is noted in some areas.
+Analysis: The imaging findings are highly suggestive of COVID-19 pneumonia. No pulmonary embolism or pleural effusion is seen. Lymph nodes are not significantly enlarged.
+Recommendation: Isolate the patient immediately. Initiate supportive care including oxygen therapy if needed. Consider antiviral treatment as per current guidelines. Monitor oxygen saturation closely and be prepared for potential deterioration requiring intensive care.
+
+Image: Chest X-ray, lateral view
+Description: The lateral chest X-ray demonstrates flattening of the diaphragms and an increased anteroposterior diameter of the chest.
+Analysis: These findings are indicative of hyperinflation, consistent with chronic obstructive pulmonary disease (COPD). No focal consolidation or masses are identified. The cardiac silhouette appears normal in size.
+Recommendation: Optimize bronchodilator therapy with long-acting beta-agonists and anticholinergics. Consider adding inhaled corticosteroids if frequent exacerbations. Encourage smoking cessation if applicable. Recommend pulmonary rehabilitation program.
+
+Image: Chest MRI, coronal view
+Description: MRI reveals a 3.5 cm mass in the right upper lobe with irregular margins. There is evidence of chest wall invasion at the 3rd rib.
+Analysis: The imaging characteristics are highly concerning for primary lung cancer with local invasion. No distant metastases are visible within the imaged area. Mediastinal lymph nodes appear mildly enlarged.
+Recommendation: Urgent referral to thoracic oncology for tissue biopsy and staging. PET-CT scan should be performed for comprehensive staging. Discuss treatment options including neoadjuvant therapy followed by surgery vs. definitive chemoradiation depending on stage and patient factors.
+
+Image: Chest X-ray, PA view
+Description: The chest X-ray shows bilateral hilar lymphadenopathy and diffuse reticulonodular opacities throughout both lung fields.
+Analysis: These findings are characteristic of sarcoidosis. The cardiac silhouette is normal in size. No pleural effusion or pneumothorax is identified.
+Recommendation: Perform pulmonary function tests to assess for restrictive lung disease. Consider high-resolution CT for further evaluation. Initiate oral corticosteroids if symptomatic or evidence of organ dysfunction. Refer to rheumatology for management and monitoring.
+
+Image: Chest CT angiogram
+Description: CT angiogram demonstrates filling defects in the right and left pulmonary arteries, extending into segmental branches.
+Analysis: The imaging findings are diagnostic of bilateral pulmonary embolism. No evidence of right heart strain is seen. Lung parenchyma shows no significant abnormalities.
+Recommendation: Start immediate anticoagulation therapy with low molecular weight heparin or direct oral anticoagulants. Assess for risk factors and consider extended duration of anticoagulation. Evaluate for underlying thrombophilia. Educate patient on signs of recurrence and importance of adherence to treatment.
+
+Image: Chest X-ray, PA view
+Description: The chest X-ray reveals a large, homogeneous opacity in the right hemithorax with mediastinal shift to the left.
+Analysis: These findings are consistent with a large right-sided pleural effusion. The left lung field appears clear. There is associated compressive atelectasis of the right lower lobe.
+Recommendation: Perform diagnostic and therapeutic thoracentesis. Send pleural fluid for biochemical, microbiological, and cytological analysis. If malignancy is suspected, consider pleural biopsy. Investigate underlying cause (e.g., heart failure, malignancy, infection). Consider chest tube placement if recurrent or symptomatic.
+
+Image: High-resolution chest CT
+Description: HRCT shows bilateral, peripheral reticular opacities with honeycombing and traction bronchiectasis. Subpleural predominance is noted.
+Analysis: The imaging findings are characteristic of usual interstitial pneumonia (UIP) pattern, suggestive of idiopathic pulmonary fibrosis (IPF). No evidence of emphysema or consolidation is seen.
+Recommendation: Refer to a specialized interstitial lung disease clinic. Consider antifibrotic therapy with pirfenidone or nintedanib. Initiate pulmonary rehabilitation and oxygen therapy if hypoxemic. Evaluate for comorbidities such as gastroesophageal reflux disease. Discuss lung transplantation evaluation for appropriate candidates.
+
+Image: Chest X-ray, PA view
+Description: The chest X-ray shows a tension pneumothorax on the left side with complete lung collapse and mediastinal shift to the right.
+Analysis: This is a critical finding requiring immediate intervention. The right lung appears normal. No rib fractures are visible.
+Recommendation: Perform immediate needle decompression followed by chest tube insertion. Assess for underlying cause (e.g., spontaneous, trauma, iatrogenic). Monitor closely for re-expansion pulmonary edema. Consider pleurodesis for recurrent cases.
+
+Image: PET-CT chest, axial view
+Description: PET-CT reveals a hypermetabolic mass in the left lower lobe with an SUV max of 15.2. Multiple FDG-avid mediastinal lymph nodes are noted.
+Analysis: The findings are highly suspicious for primary lung malignancy with nodal metastases. No distant metastases are identified within the imaged area.
+Recommendation: Perform endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) for tissue diagnosis and nodal staging. Refer to multidisciplinary tumor board for treatment planning. Consider molecular testing for targeted therapy options. Discuss potential for multimodality treatment including chemotherapy, radiation, and surgery.
+
